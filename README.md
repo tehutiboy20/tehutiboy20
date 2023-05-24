@@ -8,7 +8,7 @@
   - [osTicket: Ticket Lifecycle Examples](https://github.com/tehutiboy20/Ticket-Lifescycle-Examples)
 - <b>Microsoft Azure</b>
   - [Creating Resourse Groups and Deploying Virtual Machines in Azure](https://github.com/tehutiboy20/Resource-Groups-and-VMs)
-  - [nstalling on-premises Active Directory Within Azure VMs](https://github.com/tehutiboy20/Active-Directory-Installation)
+  - [Installing on-premises Active Directory Within Azure VMs](https://github.com/tehutiboy20/Active-Directory-Installation)
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/tehutiboy20/Active-Directory-Configuration)
   - [Inspecting Network Protocols](https://github.com/tehutiboy20/Azure-Networks-and-Protocols)
 
