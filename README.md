@@ -1,4 +1,4 @@
-<h1>Hi, I'm Amen, an <a href="https://www.linkedin.com/in/amenstoney/">IT Professional</a>🙂</h1>
+<h1>Hi, I'm Amen, a <a href="https://www.linkedin.com/in/amenstoney/">Software Engineer</a>🙂</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
